@@ -1,1 +1,1 @@
-# StephenHawkingMaze
+# game-stages
